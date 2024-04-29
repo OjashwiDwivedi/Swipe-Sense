@@ -1,4 +1,4 @@
-# Hand-Controlled-AI-Virtual-Mouse 🖱️👆
+# Hand-Controlled-AI-Virtual-Mouse 🖱
 
 ## Version: 1.0.0.1
 
